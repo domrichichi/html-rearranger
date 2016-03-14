@@ -1,0 +1,14 @@
+var $body = $('body');
+var $headerTwo = $('<h2>');
+var $ulTwo = $('<ul>');
+var $headerOne = $('<h2>');
+var $ulOne = $('<ul>');
+var $ul = $('<ul>')
+var $li = $('ul li');
+
+$body.append($headerTwo);
+$headerTwo.html('Below Ground Veggies');
+$body.append($ulTwo);
+$headerOne.html('Above Ground Veggies');
+
+$below.hasClass
