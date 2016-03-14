@@ -9,6 +9,7 @@ var $li = $('ul li');
 $body.append($headerTwo);
 $headerTwo.html('Below Ground Veggies');
 $body.append($ulTwo);
+$body.append($headerOne);
 $headerOne.html('Above Ground Veggies');
 
 $below.hasClass
