@@ -13,4 +13,8 @@ $body.append($headerOne);
 $headerOne.html('Above Ground Veggies');
 $body.append($ulOne);
 
-$li.each(function ()
+$li.each(function () {
+	if ($(this).hasClass('below')) {
+
+	}
+}
