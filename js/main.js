@@ -11,5 +11,6 @@ $headerTwo.html('Below Ground Veggies');
 $body.append($ulTwo);
 $body.append($headerOne);
 $headerOne.html('Above Ground Veggies');
+$body.append($ulOne);
 
 $below.hasClass
